@@ -103,7 +103,7 @@ For questions, suggestions, or feedback:
 
 ## 📸 Screenshot Preview
 
-![Dashboard Preview](screenshot%20dashboard.png)
+![Dashboard Preview](https://raw.githubusercontent.com/harryongit/amazon-sales-dashboard/refs/heads/main/export/screenshot%20dashboard.png)
 
 ---
 
